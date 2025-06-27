@@ -1,7 +1,7 @@
 name: github
 on: 
   push:
-    branches: [ "Hok" ]
+    branches: [ "main" ]
 
 jobs:
   alah:
